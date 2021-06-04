@@ -1,0 +1,22 @@
+    /* div {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    
+    /* width: 50px;  */
+    
+    .toolbar {
+        background-color: red;
+        width: 700px;
+        margin-top: 5rem;
+        color: white;
+        height: 70px;
+        padding-top: 30px;
+    }
+    
+    .textfield {
+        /* width: 300px; */
+        transform: skew(-10deg);
+        border-radius: 0px;
+    }
